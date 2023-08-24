@@ -1,0 +1,607 @@
+<ns0:Order xmlns:ns0="http://GNR.EMB.ShellManager.Schemas.SalesOrder" targetNamespace="http://GNR.EMB.ShellManager.Schemas.SalesOrder">
+  <ns0:Site>1003-US</ns0:Site>
+  <ns0:OrderNumber>60-3068786</ns0:OrderNumber>
+  <ns0:OrderNumber2 />
+  <ns0:PreviousOrderNumber />
+  <ns0:PreviousOrderNumber2 />
+  <ns0:OrderType>New</ns0:OrderType>
+  <ns0:CustomerOrderNumber>791C355595791</ns0:CustomerOrderNumber>
+  <ns0:CustomerOrderNumber2 />
+  <ns0:OrderDate>2023-07-31</ns0:OrderDate>
+  <ns0:PreviousOrderDate />
+  <ns0:PreviousBuildLocation />
+  <ns0:ShipmentDate>2023-07-27</ns0:ShipmentDate>
+  <ns0:SellToCustomerName>VAMC Bath</ns0:SellToCustomerName>
+  <ns0:SellToCustomerNumber>G100113</ns0:SellToCustomerNumber>
+  <ns0:Address1>AUDIOLOGY</ns0:Address1>
+  <ns0:Address2>76 Veterans Ave</ns0:Address2>
+  <ns0:SellToCity>Bath</ns0:SellToCity>
+  <ns0:BillToCustomerNumber>G133000</ns0:BillToCustomerNumber>
+  <ns0:User>CALDERONE-2012</ns0:User>
+  <ns0:DispenserCode>VS0120</ns0:DispenserCode>
+  <ns0:RespCenter>BLM-GNR</ns0:RespCenter>
+  <ns0:SalesOrderFileCreatedDate>07/31/23 01:42 PM</ns0:SalesOrderFileCreatedDate>
+  <ns0:SalesOrderFileCreatedBy>SSOM</ns0:SalesOrderFileCreatedBy>
+  <ns0:CommentsCollection />
+  <ns0:LineItems>
+    <ns0:LineItem>
+      <ns0:LineItemOrderNumber>60-3068786</ns0:LineItemOrderNumber>
+      <ns0:LineItemPreviousOrderNumber>100000</ns0:LineItemPreviousOrderNumber>
+      <ns0:LineItemCustomerOrderNumber>791C355595791</ns0:LineItemCustomerOrderNumber>
+      <ns0:LineItemId>100000</ns0:LineItemId>
+      <ns0:ProductId>21654700</ns0:ProductId>
+      <ns0:ModelNo />
+      <ns0:BTEProductId />
+      <ns0:ProductCategory>PART-ACCESSORY</ns0:ProductCategory>
+      <ns0:ProductVariant>EARMOULDS</ns0:ProductVariant>
+      <ns0:Description>HIGH POWER MICRO-MOLD, RIGHT</ns0:Description>
+      <ns0:OutSerialNo>23110369</ns0:OutSerialNo>
+      <ns0:Quantity>1</ns0:Quantity>
+      <ns0:FPitemNo />
+      <ns0:LineItemShipmentDate>2023-08-03</ns0:LineItemShipmentDate>
+      <ns0:LinePreviousOrderNumber />
+      <ns0:ConfigHeader>
+        <ns0:ConfigNo>14532129</ns0:ConfigNo>
+        <ns0:TemplateNo>0_NEW EARMOLD</ns0:TemplateNo>
+        <ns0:TemplateVersion>20230608-0</ns0:TemplateVersion>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>2ND BEND RETENTION</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>3X SERVICE</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BATTERY DOOR LAYOUT</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC1.5K</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC1K</ns0:OptionGroup>
+          <ns0:OptionValue>35*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC250</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC2K</ns0:OptionGroup>
+          <ns0:OptionValue>45*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC3K</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC4K</ns0:OptionGroup>
+          <ns0:OptionValue>75+*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC500</ns0:OptionGroup>
+          <ns0:OptionValue>25*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC6K</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC750</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BC8K</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BIN RM MGR</ns0:OptionGroup>
+          <ns0:OptionValue>0_NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BINAURAL_FLAG</ns0:OptionGroup>
+          <ns0:OptionValue>ORDER</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BRAND</ns0:OptionGroup>
+          <ns0:OptionValue>VA</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BTE FAMILY</ns0:OptionGroup>
+          <ns0:OptionValue>RS8PIN</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BTE WARRANTY</ns0:OptionGroup>
+          <ns0:OptionValue>N/A</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>BUILD LOCATION</ns0:OptionGroup>
+          <ns0:OptionValue>03_USR_XMN_USR</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CANAL LENGTH</ns0:OptionGroup>
+          <ns0:OptionValue>MEDIUM</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CANAL MFG LENGTH</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CANAL TAPER</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CANAL TIP TAPER</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CEARMOLD</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CHANGES</ns0:OptionGroup>
+          <ns0:OptionValue>YES</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>COLOR DOT</ns0:OptionGroup>
+          <ns0:OptionValue>LG LETTER + LG DOT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CONFIG OVERRIDE</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CONFIG TEST</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CONFIG VERSION</ns0:OptionGroup>
+          <ns0:OptionValue>US</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CR</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CRECEIVER</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CRT TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>8PIN</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>CUSTOM GROUP</ns0:OptionGroup>
+          <ns0:OptionValue>MICRO-MOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>DRILLING METHOD</ns0:OptionGroup>
+          <ns0:OptionValue>N/A</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EAR TEXTURE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EARMOLD</ns0:OptionGroup>
+          <ns0:OptionValue>YES</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EARMOLD_COMPONENT</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM BTE TYPE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM CANAL</ns0:OptionGroup>
+          <ns0:OptionValue>FACTORY SELECT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM FITTING</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM INCLUDE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM ITEM</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM POWER</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM SIZE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM VENT</ns0:OptionGroup>
+          <ns0:OptionValue>FACTORY SELECT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ECOM WAX PROTECTION</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EDI_MODEL</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EDI_SHELL COLOR</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EDI_TUBE TYPE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EDI_VENTMOD</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM COLOR</ns0:OptionGroup>
+          <ns0:OptionValue>CLEAR</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM MATERIAL TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>21654700</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM MFG REC SIZE</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM MODEL</ns0:OptionGroup>
+          <ns0:OptionValue>HP MICRO-MOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM RECEIVER POCKET</ns0:OptionGroup>
+          <ns0:OptionValue>HP_NG8</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM RECEIVER POWER</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM RECEIVER SIZE</ns0:OptionGroup>
+          <ns0:OptionValue>HIGH POWER</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM RUSH</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM SHORE VALUE</ns0:OptionGroup>
+          <ns0:OptionValue>U90</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM SPECIAL OPTION</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>ACRYLIC</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EM VENT TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>SMALL</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EMO1</ns0:OptionGroup>
+          <ns0:OptionValue>RC</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EMO2</ns0:OptionGroup>
+          <ns0:OptionValue>CL</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EMO3</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>EMO4</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ENCASE TPI SELECTION</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ENGRAVE CODE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FACTORY SELECT</ns0:OptionGroup>
+          <ns0:OptionValue>CL_VT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FAMILY</ns0:OptionGroup>
+          <ns0:OptionValue>MICRO-MOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FILE MANAGEMENT</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FINISH</ns0:OptionGroup>
+          <ns0:OptionValue>STANDARD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FLAT</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>FP COLOR</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>GLOBAL OFFSET</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HARD TIP</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 1.5K</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 1K</ns0:OptionGroup>
+          <ns0:OptionValue>65*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 250</ns0:OptionGroup>
+          <ns0:OptionValue>65*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 2K</ns0:OptionGroup>
+          <ns0:OptionValue>75*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 3K</ns0:OptionGroup>
+          <ns0:OptionValue>105+*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 4K</ns0:OptionGroup>
+          <ns0:OptionValue>105+*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 500</ns0:OptionGroup>
+          <ns0:OptionValue>55*</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 6K</ns0:OptionGroup>
+          <ns0:OptionValue>100+</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL 8K</ns0:OptionGroup>
+          <ns0:OptionValue>95+</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>HL750</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>IMPRESSION INST</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>IMPRESSION QUALITY</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>INSERTION DEPTH</ns0:OptionGroup>
+          <ns0:OptionValue>______MM</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>INVESTMENT</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>IOF SO NUMBER</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ITEMS_TOTAL</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>KAISER ITEM</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>MERGE NO</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>MFG SITE</ns0:OptionGroup>
+          <ns0:OptionValue>US</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>MODEL NAME</ns0:OptionGroup>
+          <ns0:OptionValue>MICROMOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>MQR SERVICE FLAG</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>MULTIPLE SERVICE</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>NAME IN SHELL</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ORDER STATUS</ns0:OptionGroup>
+          <ns0:OptionValue>IP</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ORDER TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>N/A</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>PROCESS</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>PRODUCT ID</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>PRODUCT LINE</ns0:OptionGroup>
+          <ns0:OptionValue>MICRO-MOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>RECEIVER RETENTION</ns0:OptionGroup>
+          <ns0:OptionValue>N/A</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>RECEIVER SIZE</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>RECEIVER TUBE</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>REMOVAL CORD LENGTH</ns0:OptionGroup>
+          <ns0:OptionValue>______MM</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>RESPONSIBILITY AREA</ns0:OptionGroup>
+          <ns0:OptionValue>ELA</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>RETURN ALL</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ROES RECEIVER</ns0:OptionGroup>
+          <ns0:OptionValue>REC48</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>ROES SIDE INDICATOR</ns0:OptionGroup>
+          <ns0:OptionValue>LARGE LETTER</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SAV SELECT</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SCAN MODEL</ns0:OptionGroup>
+          <ns0:OptionValue>MICRO-MOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SCAN SOURCE</ns0:OptionGroup>
+          <ns0:OptionValue>IMPRESSION</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SCAN SP_MODEL</ns0:OptionGroup>
+          <ns0:OptionValue>SF3HP</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SECURITY RING</ns0:OptionGroup>
+          <ns0:OptionValue>NO</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SERVICE OVERRIDE</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SERVICE_TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>STANDARD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SF3TOOL</ns0:OptionGroup>
+          <ns0:OptionValue />
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SHELL</ns0:OptionGroup>
+          <ns0:OptionValue>EM</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SHELL MODIFICATION</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SIDE</ns0:OptionGroup>
+          <ns0:OptionValue>RIGHT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SPECIAL DISCOUNT2</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SWR</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>SWR 2</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>THIN TUBE SIZE</ns0:OptionGroup>
+          <ns0:OptionValue>N/A</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>TUBE RETENTION</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>TUBE TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>RIE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VA EARMOLD</ns0:OptionGroup>
+          <ns0:OptionValue>RIC MICROMOLD</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VA MAKE</ns0:OptionGroup>
+          <ns0:OptionValue>GN RESOUND</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VA MODEL</ns0:OptionGroup>
+          <ns0:OptionValue>EM9</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VALIDATE NAME</ns0:OptionGroup>
+          <ns0:OptionValue>YES</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VENT MODIFICATION</ns0:OptionGroup>
+          <ns0:OptionValue>NONE</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VENT TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>SMALL</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>VERSION TYPE</ns0:OptionGroup>
+          <ns0:OptionValue>RS COMM</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>WARRANTY STATUS</ns0:OptionGroup>
+          <ns0:OptionValue>-</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>WAX PROTECTION</ns0:OptionGroup>
+          <ns0:OptionValue>CERUSTOP</ns0:OptionValue>
+        </ns0:ConfigDetail>
+        <ns0:ConfigDetail>
+          <ns0:OptionGroup>WP</ns0:OptionGroup>
+          <ns0:OptionValue>FACTORY SELECT</ns0:OptionValue>
+        </ns0:ConfigDetail>
+      </ns0:ConfigHeader>
+      <ns0:ServiceRecords />
+    </ns0:LineItem>
+  </ns0:LineItems>
+</ns0:Order>
